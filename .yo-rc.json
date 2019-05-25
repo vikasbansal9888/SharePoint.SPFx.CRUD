@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "share-point-sp-fx-crud",
+    "libraryId": "3dc108f5-f269-46cf-9cde-8556c048aba7",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
