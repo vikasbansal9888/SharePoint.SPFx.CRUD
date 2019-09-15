@@ -1,6 +1,15 @@
 ## SharePoint SPFx CRUD
 
-This is where you include your WebPart documentation.
+SharePoint framework webpart for performing CRUD operations using JavaScript.
+
+I have made a POC on how to create a SPFx webpart with NoJavascript for achieving all the basic CRUD (create, read, update and delete) operations on SharePoint list.
+
+My attempt is to help out all the new developers working on SharePoint Framework and developer community working out.
+
+Please help out in improving the code, all your comments and feedbacks are valuable to me.
+
+### Screenshots
+
 
 ### Building the code
 
