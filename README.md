@@ -1,4 +1,4 @@
-## share-point-sp-fx-crud
+## SharePoint SPFx CRUD
 
 This is where you include your WebPart documentation.
 
