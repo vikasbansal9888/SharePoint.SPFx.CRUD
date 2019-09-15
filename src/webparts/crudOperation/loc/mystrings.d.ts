@@ -1,7 +1,8 @@
 declare interface ICrudOperationWebPartStrings {
   PropertyPaneDescription: string;
   BasicGroupName: string;
-  DescriptionFieldLabel: string;
+
+  ListTitleFieldLabel: string;
 }
 
 declare module 'CrudOperationWebPartStrings' {

@@ -10,7 +10,7 @@
   .row {
     @include ms-Grid-row;
     @include ms-fontColor-white;
-    background-color: $ms-color-themeDark;
+    background-color: #deb887;
     padding: 20px;
   }
 
@@ -35,6 +35,26 @@
   .description {
     @include ms-font-l;
     @include ms-fontColor-white;
+  }
+
+  
+  .myTable{
+    border: 2px solid #000;
+    color: #000;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background-color: #a1d637;
+    border-collapse: collapse;
+  }
+
+  .myTable_th {
+    height: 26px;
+    background-color: #ff4500;
+  }
+
+  .myTable_td {
+    border: 2px solid #000;
   }
 
   .button {
