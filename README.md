@@ -9,7 +9,8 @@ My attempt is to help out all the new developers working on SharePoint Framework
 Please help out in improving the code, all your comments and feedbacks are valuable to me.
 
 ### Screenshots
-
+<img alt="SharePoint.SpFx.BasicWebpart-Webpart" src="Screenshots\SharePoint.SpFx.BasicWebpart-Webpart.jpg" />
+<img alt="SharePoint.SpFx.BasicWebpart-List" src="Screenshots\SharePoint.SpFx.BasicWebpart-List.jpg" />
 
 ### Building the code
 
